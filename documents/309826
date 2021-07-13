@@ -1,0 +1,97 @@
+Some sample Text
+#-- Xft settings -- #
+Xft.dpi        96
+Xft.antialias  true
+Xft.rgba       rgb
+Xft.hinting    true
+Xft.hintstyle  hintfull
+
+# window padding
+st.borderpx          15
+st.font 							Sarasa Term Kpixelsize=18antialias=true
+# st.opacity 255
+
+# special
+foreground   #2a2f33
+background   #eaf3e5
+cursorColor  #c8ccd4
+
+# black
+color0       #282c34
+color8       #545862
+
+# red
+color1       #e06c75
+color9       #e06c75
+
+# green
+color2       #98c379
+color10      #98c379
+
+# yellow
+color3       #e5c07b
+color11      #e5c07b
+
+# blue
+color4       #69a9de
+color12      #69a9de
+
+# magenta
+color5       #c678dd
+color13      #c678dd
+
+# cyan
+color6       #56b6c2
+color14      #56b6c2
+
+# white
+color7       #abb2bf
+color15      #c8ccd4
+#-- Xft settings -- #
+Xft.dpi        96
+Xft.antialias  true
+Xft.rgba       rgb
+Xft.hinting    true
+Xft.hintstyle  hintfull
+
+st.borderpx          8
+st.font 							Sarasa Term Kpixelsize=18antialias=true
+st.opacity 255
+st.alpha 0.94
+
+# special
+foreground   #bfddb2
+background   #2a2f33
+cursorColor  #bfddb2
+
+# black
+color0       #504945
+color8       #504945
+
+# red
+color1       #ea5252
+color9       #ea5252
+
+# green
+color2       #ACB765
+color10      #ACB765
+
+# yellow
+color3       #c1bf89
+color11      #c1bf89
+
+# blue
+color4       #82abbc
+color12      #82abbc
+
+# magenta
+color5       #b18a97
+color13      #b18a97
+
+# cyan
+color6       #88b482
+color14      #89b482
+
+# white
+color7       #bfddb2
+color15      #bfddb2
