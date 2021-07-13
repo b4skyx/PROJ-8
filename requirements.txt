@@ -1,0 +1,5 @@
+pycryptodome
+pathlib
+pymongo
+dnspython
+python-dotenv
